@@ -1,12 +1,9 @@
 <h1 align="center">Hello 👋, Team</h1>
 <h3 align="center">"Empowering businesses with tailored IT outsourcing solutions and innovative technology services."</h3>
-<img align="right" alt="coding" width="400" src="https://darvideo.tv/wp-content/uploads/2021/04/01.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=openmalo-tech&label=Profile%20views&color=0e75b6&style=flat" alt="openmalo-tech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=openmalo-tech" alt="openmalo-tech" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_T67RKtf2O_Shp11Ns8T349zGHQv0mxWrQ&s.gif">
 - 🔭 currently working on **Outsourcing for website and application development.**
 
 - 🌱we currently Focus on **FRONTEND ,FULLSTACK ,CODEIGNITER , LARAVEL , BACKEND , UI/UX**
