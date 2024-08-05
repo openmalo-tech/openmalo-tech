@@ -1,4 +1,4 @@
-![logo](https://github.com/openmalo-tech/openmalo-tech/commits?author=openmalo-tech)
+![logo](https://github.com/openmalo-tech/openmalo-tech/blob/main/openmalo.png)
 <h1 align="center">Hello 👋, Team</h1>
 <h3 align="center">"Empowering businesses with tailored IT outsourcing solutions and innovative technology services."</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=openmalo-tech&label=Profile%20views&color=0e75b6&style=flat" alt="openmalo-tech" /> </p>
